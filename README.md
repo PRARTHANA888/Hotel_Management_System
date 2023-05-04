@@ -16,16 +16,17 @@ Clone the repository to your local machine.
 
 Compile the source code using a C++ compiler such as gcc or g++.
 
-Copy code
-``g++ main.cpp -o hotel_management_system
+``Copy code
+```g++ main.cpp -o hotel_management_system```
 ``
 
 
 Run the compiled executable file.
 
-in bash Copy code
+``in bash Copy code
 
-``./Hotel_Management_System``
+```./Hotel_Management_System```
+``
 
 ## Usage
 Select the option from the menu to perform the desired operation.
