@@ -17,6 +17,7 @@ Clone the repository to your local machine.
 Compile the source code using a C++ compiler such as gcc or g++.
 
 ``Copy code
+
 ```g++ main.cpp -o hotel_management_system```
 ``
 
